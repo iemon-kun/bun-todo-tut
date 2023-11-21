@@ -1,0 +1,4 @@
+/* 完了したToDoアイテムのスタイル */
+.completed {
+    text-decoration: line-through;
+}
